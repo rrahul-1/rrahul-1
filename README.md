@@ -54,6 +54,7 @@ Lately, I’ve been deep into:
 I’m especially interested in: AI that actually *ships to production*,  not just demos  
 
 ---
+
 <!--
 ## 🔥 Things I’ve Built
 
@@ -82,11 +83,11 @@ AI assistant with memory + live web context.
 - Streaming LLM responses  
 - Persistent conversations  
 
--->
-
 🧠 Built to explore how AI
 
 ---
+-->
+
 
 ## 🛠 Tech Stack
 
@@ -103,6 +104,7 @@ AI assistant with memory + live web context.
 ### 🤖 AI & Modern Systems
 LLMs • Vercel AI SDK • Firecrawl • Prompt-driven systems
 
+---
 
 ## 🧑‍💼 Leadership (Hands-on)
 
