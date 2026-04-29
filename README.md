@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🧠 Backend-leaning, but comfortably full-stack  
 🤖 Currently exploring & building in AI  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin)](httpshttps://www.linkedin.com/in/rahul-r-raghunathan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-r-raghunathan/)
 
 🎯 Fun fact: I’m always curious about what’s worth building next — not just what’s trending.
 
@@ -132,6 +132,6 @@ I’m open to:
 
 ## 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin)](httpshttps://www.linkedin.com/in/rahul-r-raghunathan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-r-raghunathan/)
 
 ---
