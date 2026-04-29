@@ -54,7 +54,7 @@ Lately, I’ve been deep into:
 I’m especially interested in: AI that actually *ships to production*,  not just demos  
 
 ---
-
+<!--
 ## 🔥 Things I’ve Built
 
 ### ⚙️ API Builder - Workflow Orchestration Platform
@@ -63,8 +63,8 @@ I’m especially interested in: AI that actually *ships to production*,  not jus
 
 - Enables users to create **flexible workflows via a no-code UI**, acting as a backend layer for applications  
 - Built a high-performance execution engine supporting **parallel & sequential DAG workflows**  
-- Integrates with **20+ connectors** - databases, caches, Kafka, APIs, LLM, OPA, slack, mail, and more  
-- Supports **GraphQL federation**, real-time data transformation, cryptograhy, and custom runtime scripting
+- Integrates with **20+ connectors** - databases, caches, Kafka, APIs, LLM, OPA, Slack, mail, and more  
+- Supports **GraphQL federation**, real-time data transformation, cryptography, and custom runtime scripting
 - Designed for developers and enterprise use, powering multiple production systems  
  
 💡 Impact:
@@ -81,6 +81,8 @@ AI assistant with memory + live web context.
 - Firecrawl for real-time search  
 - Streaming LLM responses  
 - Persistent conversations  
+
+-->
 
 🧠 Built to explore how AI
 
