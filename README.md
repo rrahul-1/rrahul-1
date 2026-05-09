@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hey, I’m Rahul Raghunathan
-> Engineering Lead who builds **scalable systems, AI-powered products, and things that don’t break at scale (hopefully).**
+> Engineering Lead who builds **scalable systems and AI-powered products** that ship to production.
 
 ⚡ Engineering Lead | Founding Engineer  
 🧠 Backend-leaning, but comfortably full-stack  
 🤖 Currently exploring & building in AI  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-r-raghunathan/)
+[![X](https://img.shields.io/badge/X-@__Rahul__R____-black?style=for-the-badge&logo=x)](https://x.com/_rahul_r__)
 
-🎯 Fun fact: I’m always curious about what’s worth building next — not just what’s trending.
+🎯 Fun fact: I’m always curious about what’s worth building next - not just what’s trending.
 
 ---
 
@@ -35,12 +36,15 @@ I sit at the intersection of:
 - **Product**
 - **Real-world constraints**
 
-I’ve spent the last few years:
+Over the last 4 years at a high-growth API startup, I went from founding engineer to leading an engineering team. Here's what that looked like in numbers:
+
 - Built products that generated **$500K+ revenue**
 - Building and scaled API lifecycle management platform
 - Scaled API workflow engine from **85 → 785 TPS (9x)**
 - Reduced workflow latency from **11s → 1s (90%)**
 - Led and mentored engineering teams  
+
+I stay hands-on with architecture and code while owning the roadmap, delivery, and client outcomes.
 
 ---
 
@@ -55,10 +59,10 @@ I’m especially interested in: AI that actually *ships to production*,  not jus
 
 ---
 
-<!--
+
 ## 🔥 Things I’ve Built
 
-### ⚙️ API Builder - Workflow Orchestration Platform
+## ⚙️ API Builder - Workflow Orchestration Platform
 
 > A workflow orchestrator platform to build and run complex API workflows.
 
@@ -73,20 +77,28 @@ I’m especially interested in: AI that actually *ships to production*,  not jus
 - Simplified complex integrations into configurable workflows 
 - Used by multiple enterprise clients 
 
+## ⚙️ [Elyxity](https://github.com/rrahul-1/elyxity) - AI Search Assistant
+> Full-stack AI assistant combining live web search, LLM reasoning, and persistent conversation history.
+
+Built with `React · TypeScript · Express · Gemini · Firecrawl · Vercel AI SDK · PostgreSQL `
+
+- Integrates [Firecrawl](https://www.firecrawl.dev/) to fetch real-time web context before reasoning
+- Streams LLM responses to the frontend with full conversation awareness
+- Designed to show how grounded, stateful AI assistants are built end-to-end
+
+
+## 🧠 [Memoire-cli](https://github.com/rrahul-1/Memoire-cli) - Terminal AI with Long-Term Memory
+> A CLI chat assistant that actually remembers you - across sessions, not just turns.
+
+Built with `TypeScript · Vercel AI SDK · Gemini · Mem0`
+
+- Retrieves semantically relevant past memories before every response
+- Streams responses token-by-token directly in the terminal
+- Persistent memory - powered by [Mem0](https://mem0.ai), past conversations are stored and injected as context automatically
+
+
 ---
 
-### 🤖 Elyxity - AI Search Assistant
-
-AI assistant with memory + live web context.
-
-- Firecrawl for real-time search  
-- Streaming LLM responses  
-- Persistent conversations  
-
-🧠 Built to explore how AI
-
----
--->
 
 
 ## 🛠 Tech Stack
@@ -102,7 +114,7 @@ AI assistant with memory + live web context.
 
 
 ### 🤖 AI & Modern Systems
-LLMs • Vercel AI SDK • Firecrawl • Prompt-driven systems
+LLMs • Vercel AI SDK • Firecrawl • Mem0 • Prompt-driven systems
 
 ---
 
@@ -137,5 +149,6 @@ I’m open to:
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-r-raghunathan/)
+[![X](https://img.shields.io/badge/X-@__Rahul__R____-black?style=for-the-badge&logo=x)](https://x.com/_rahul_r__)
 
 ---
