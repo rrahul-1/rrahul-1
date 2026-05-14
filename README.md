@@ -77,7 +77,7 @@ I’m especially interested in: AI that actually *ships to production*,  not jus
 - Simplified complex integrations into configurable workflows 
 - Used by multiple enterprise clients 
 
-## 🔍 [Memprobe](https://github.com/rrahul-1/Memprobe) - Developer Dashboard for Mem0
+## 🔍 [Memprobe](https://github.com/rrahul-1/Memprobe) - Developer Dashboard for AI Memory
 > A memory inspector for Mem0 memory store - browse, query, and trace every memory change.
 
 Built with `Next.js · React 19 · TypeScript · Tailwind CSS v4 · Mem0 SDK · Bun`
@@ -85,6 +85,7 @@ Built with `Next.js · React 19 · TypeScript · Tailwind CSS v4 · Mem0 SDK · 
 🌐 **Live demo → [memprobe.vercel.app](https://memprobe.vercel.app)**
 
 - Memory browser with live search, category filters, and a detail panel - add, update, or delete memories in-place
+- Integrates with [Mem0](https://mem0.ai/) to fetch real-time memory context
 - **Retrieval Tester-(search)** - run natural language queries against your Mem0 store and see ranked results with relevance scores
 - **Timeline view** - full change history for any memory, showing diffs for every CREATED / UPDATED / DELETED event
 - All Mem0 API calls proxied through Next.js routes - API key is never stored server-side
